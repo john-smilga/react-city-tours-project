@@ -5,9 +5,9 @@
   padding: 0.5rem 1rem;
   display: grid;
   grid-template-columns: auto 1fr;
+  align-items: center;
 }
 .nav-links {
-  align-self: center;
   list-style-type: none;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
